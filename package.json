@@ -1,0 +1,25 @@
+{
+  "name": "@dcat/web3react",
+  "version": "1.0.0",
+  "description": "web3 authentication react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandymandy12/web3react.git"
+  },
+  "keywords": [
+    "web3",
+    "react",
+    "authentication",
+    "walletconnect"
+  ],
+  "author": "Devin Catuns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandymandy12/web3react/issues"
+  },
+  "homepage": "https://github.com/sandymandy12/web3react#readme"
+}
