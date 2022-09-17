@@ -1,6 +1,8 @@
 import * as Accounts from "./Accounts";
 import * as Card from "./Card";
 import * as Chain from "./Chain";
+import * as Provider from "./Provider";
+import * as Status from "./Status";
 
 import * as ConnectWithSelect from "./ConnectWithSelect";
 import * as MetaMaskCard from "./ConnectorCards/MetaMaskCard";
@@ -26,4 +28,4 @@ const Connectors = {
   WalletConnect,
 };
 
-export { Accounts, Card, Chain, Cards, Connectors };
+export { Accounts, Card, Chain, Cards, Connectors, Provider, Status };
