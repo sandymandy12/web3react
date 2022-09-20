@@ -4,7 +4,6 @@ import * as Chain from "./Chain";
 import * as Provider from "./Provider";
 import * as Status from "./Status";
 
-import * as ConnectWithSelect from "./ConnectWithSelect";
 import * as MetaMaskCard from "./ConnectorCards/MetaMaskCard";
 import * as WalletConnectCard from "./ConnectorCards/WalletConnectCard";
 
@@ -15,7 +14,6 @@ import * as Network from "./Connectors/network";
 import * as WalletConnect from "./Connectors/walletConnect";
 
 const Cards = {
-  ConnectWithSelect,
   MetaMaskCard,
   WalletConnectCard,
 };
